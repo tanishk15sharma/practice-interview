@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+
+
+body {
+    text-align: left;
+    font-family: 'Lato', sans-serif;
+
+    word-spacing: 5px;
+    line-height: 1.5;
+
+
+
+}
+.Q2 {
+    margin-top: 4rem;
+
+
+}
+
+.answerLink {
+ 
+    margin-left: 2rem;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    border-radius: 20%;
+    text-decoration: none;
+    border-style: outset;    
+    color: #F87171;
+    border:  3px;
+    float: right;   
+    background-color: #F9FAFB;
+    margin-right: 35rem;
+    
+    
+    border-style: outset; 
+
+
+    
+
+}
+.answerLink:hover {
+    
+    color: black;
+    transition-duration: 0.4s;
+    background-color: #059669; /* Green */
+    color: wheat;
+    
+    
+
+  }
+
+.codeLink {
+    
+    border:  3px;
+    text-decoration: none;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    padding: 0.5rem;
+    border-radius: 20%;
+    border-style: inset; 
+    float: right;   
+    background-color: #F3F4F6;
+    color: #818CF8
+    ;
+       
+
+
+
+    }
+    .codeLink:hover {
+        background-color: #059669; /* Green */
+        color: wheat;
+        transition-duration: 0.4s;
+        
+
+      }
