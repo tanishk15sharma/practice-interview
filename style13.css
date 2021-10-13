@@ -1,0 +1,25 @@
+:root {
+    --primary-color: red ;
+    --secondary-color: pink ;
+}
+#h1text {
+    margin-left: 12rem;
+    margin-top: 8rem;
+    color: var(--primary-color)
+}
+#h2text {
+    margin-left: 43rem;
+    color: var(--secondary-color);
+}
+#primarybtn {
+    padding: 1rem 1rem;
+    margin-left: 22rem;
+    margin-right: 3rem;
+    margin-top: 3rem;
+    color: var(--primary-color)
+}
+#secondarybtn {
+    padding: 1rem 1rem;
+    margin-left: 21rem;
+    color: var(--secondary-color);
+}

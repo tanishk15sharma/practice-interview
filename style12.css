@@ -1,0 +1,17 @@
+#editbtn {
+    margin-top: 17rem;
+    margin-left: 40rem;
+    padding: 0.5rem 2rem;
+    background-color: green;
+    border-radius: 1rem;
+    color: wheat;
+    transition: 0.9s;
+    
+}
+#editbtn:hover {
+    background-color :lightgreen;
+    color: black;
+    font-weight: bold;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+
+    }
